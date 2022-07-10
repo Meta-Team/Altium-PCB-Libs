@@ -1,0 +1,8 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=Connector\XT30-60\XT30-60.LibPkg
+[Project2]
+ProjectPath=Connector\M8TE\M8TE.LibPkg
+[Project3]
+ProjectPath=Connector\GH1.25\GH1.25.LibPkg
