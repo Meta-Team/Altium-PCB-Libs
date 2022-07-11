@@ -6,3 +6,7 @@ ProjectPath=Connector\XT30-60\XT30-60.LibPkg
 ProjectPath=Connector\M8TE\M8TE.LibPkg
 [Project3]
 ProjectPath=Connector\GH1.25\GH1.25.LibPkg
+[Project4]
+ProjectPath=Chips\Chips.LibPkg
+[Project5]
+ProjectPath=Chips\ST Microcontroller 32-Bit STM32.LibPkg
