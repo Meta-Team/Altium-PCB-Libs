@@ -10,3 +10,7 @@ ProjectPath=Connector\GH1.25\GH1.25.LibPkg
 ProjectPath=Chips\Chips.LibPkg
 [Project5]
 ProjectPath=Chips\ST Microcontroller 32-Bit STM32.LibPkg
+[Project6]
+ProjectPath=Connector\USB\TypeA\TypeA.LibPkg
+[Project7]
+ProjectPath=Connector\Pitch-5.08mm\Pitch-5.08mm.LibPkg
