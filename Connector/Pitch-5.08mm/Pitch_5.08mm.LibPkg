@@ -63,7 +63,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=COIFFEDO
 
 [Document2]
 DocumentPath=CZ_5.08mm.PcbLib
@@ -80,7 +80,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MWARDCJU
 
 [Document3]
 DocumentPath=HT_5.08mm.PcbLib
@@ -97,7 +97,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=SIQOQVHU
 
 [Document4]
 DocumentPath=KF_5.08mm.PcbLib
@@ -114,7 +114,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=IXCEXBEI
 
 [Document5]
 DocumentPath=Pitch_5.08.SchLib
@@ -131,7 +131,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TSPEPTPV
 
 [OutputGroup1]
 Name=Netlist Outputs
